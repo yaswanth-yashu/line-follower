@@ -15,7 +15,6 @@
 
 ---
 
-## 📸
 
 ![Linefollower](https://github.com/user-attachments/assets/cd5cd10d-a66c-4650-b494-8e0a8003625f)
 
