@@ -61,3 +61,7 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.electrotalks.online/2024/11/line.html"><strong>📘 Full Tutorial on Our Blog »</strong></a>
+</p>
+
